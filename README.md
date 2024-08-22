@@ -1,6 +1,6 @@
 # LLaVA-VSD: Large Language-and-Vision Assistant for Visual Spatial Description
 
-> **[LLaVA-VSD: Large Language-and-Vision Assistant for Visual Spatial Description](https://www.arxiv.org/pdf/2408.04957)**[ [arXiv]](https://www.arxiv.org/pdf/2408.04957) [ [huggingface]](https://huggingface.co/datasets/swordli/LLaVA-VSD)
+> **[LLaVA-VSD: Large Language-and-Vision Assistant for Visual Spatial Description](https://www.arxiv.org/pdf/2408.04957)**[ [arXiv]](https://www.arxiv.org/pdf/2408.04957) [ [huggingface]](https://huggingface.co/datasets/swordli/LLaVA-VSD-120K)
 
 > *Yizhang Jin<sup>12</sup>, Jian Li<sup>1</sup>, Jiangning Zhang<sup>1</sup>, Jianlong Hu<sup>1</sup>, Zhenye Gan<sup>1</sup>, Xin Tan<sup>3</sup>, Yong Liu<sup>1</sup>, Yabiao Wang<sup>1</sup>, Chengjie Wang<sup>1</sup>, Lizhuang Ma<sup>2</sup>*
 
